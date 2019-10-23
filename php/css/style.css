@@ -10,10 +10,28 @@ main {
 
 p {
     font-size: 1.4em;
+    background-color: rgba(240, 248, 255, 75%);
 }
 
 ul {
     list-style: none;
     display: flex;
     justify-content: space-evenly;
+    color: aliceblue;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    color: aliceblue;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    color: aliceblue;
+}
+
+header {
+    text-align: center;
 }
