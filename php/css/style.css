@@ -11,6 +11,7 @@ main {
 p {
     font-size: 1.4em;
     background-color: rgba(240, 248, 255, 75%);
+    padding: 10px;
 }
 
 ul {
