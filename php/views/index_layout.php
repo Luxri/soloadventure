@@ -20,7 +20,7 @@
 
         <ul>
             <?php foreach ($links as $link): ?>
-            <button type="button" class="btn btn-outline-danger">
+            <button type="button" class="btn btn-outline-light">
                 <a href="index.php?id=<?= $link['target_id'] ?>">
                     <li><?= $link['description'] ?></li>
                 </a>
